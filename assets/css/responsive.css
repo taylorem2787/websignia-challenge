@@ -1,0 +1,36 @@
+@media only screen and (max-width: 640px) {
+  .circle, .circle-small {
+   	width: 35px !important;
+	height: 35px !important;
+  }
+
+  .circle{
+
+  }
+
+  h5, p, p.large, span {
+  	font-size: 18px !important;
+  }
+
+  p.small {
+  	font-size: 14px !important;
+  }
+
+  p.footer{
+  	font-size: 10px !important;
+  }
+
+  section {
+	min-height: 350px;
+  }
+
+}
+
+@media only screen and (max-width: 740px) {
+  .circle, .circle-small {
+   	width: 75px !important;
+	height: 75px !important;
+  }
+
+}
+
