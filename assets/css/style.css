@@ -13,7 +13,7 @@ section{
 section#section-one{
 	background-color: #4BB1B7 !important;
 	color: #fff;
-	height: 1000px;
+	height: 900px;
 }
 
 section#section-two, section#section-five{
@@ -66,8 +66,9 @@ p.footer{
 }
 
 span {
-	float: left;
+	/*float: left;*/
 	font-size: 33px;
+	padding-right: 5px;
 }
 
 footer{
