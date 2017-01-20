@@ -113,14 +113,11 @@ hr.footer{
 	height: 2px !important;
 }
 
-.parallax-container {
-  height: 400px;
-}
-
 li a {
 	color: #4BB1B7 !important;
 }
 
-p, h5, h4, span, circle, circle-small{
+p, p.large, h5, h4, span, .circle, .circle-small{
 	text-shadow: .5px 2px 1px rgba(0,0,0,0.2);
 }
+
